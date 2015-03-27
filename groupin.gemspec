@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.email       = 'code@arvindcj.com'
   s.files       = ["lib/groupin.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/hola'
+    'https://github.com/arvindcj/groupin'
 end
