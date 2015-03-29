@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'groupin'
   s.version     = '0.0.1'
-  s.date        = '2010-04-28'
+  s.date        = Time.now.strftime("%m/%d/%y")
   s.summary     = "Groupin Utility - under development"
   s.description = "Grouping Uitlity - under development"
   s.authors     = ["Arvind CJ"]
